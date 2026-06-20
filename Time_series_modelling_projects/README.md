@@ -8,8 +8,10 @@ In this process, I used ETS, Naive, ARIMA, Exponential smoothing and the seasona
 ## Residual analysis
 1. Naive
 <img width="822" height="620" alt="2" src="https://github.com/user-attachments/assets/593506c4-b35d-416c-82f0-4f2a3180a8db" />
+
 2. ARIMA
 <img width="753" height="630" alt="3" src="https://github.com/user-attachments/assets/a2a74b0e-2362-4c75-848b-86c3b129bc16" />
+
 3. ETS
 <img width="753" height="630" alt="4" src="https://github.com/user-attachments/assets/11df8041-a1de-43fe-b1d3-9a3f053ba736" />
 
