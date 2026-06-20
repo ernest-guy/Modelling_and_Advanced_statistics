@@ -19,7 +19,8 @@ In this process, I used ETS, Naive, ARIMA, Exponential smoothing and the seasona
 <img width="753" height="630" alt="5" src="https://github.com/user-attachments/assets/7b8e7d6b-57f1-4b6d-8b65-a568a4cbf630" />
 
 ## Forecast evaluation
-<img width="2225" height="334" alt="accuracy_table" src="https://github.com/user-attachments/assets/e23eed77-b24c-4890-85de-6e03b1f26a50" />
+<img width="2225" height="334" alt="accuracy_table" src="https://github.com/user-attachments/assets/2a2e9e52-ddf9-4f57-8439-4aa643ac435b" />
+
 
 
 
